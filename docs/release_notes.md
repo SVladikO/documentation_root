@@ -6,6 +6,10 @@ to simplify migration between versions.
 Release notes are document with details about 
 product improvements, major bug fixes, and brand new features.
 
+### There are two types of release notes for:
+- developers (they need to know how contribute)
+- users (they need to know how to use update)
+
 ### Why write release notes?
 
 Release notes are not an optional step in the release cycle.
@@ -65,11 +69,6 @@ Amongst large teams, the person responsible for that release note will depend on
 - Disallow 1  (@author2 in #ticketNumber)
 #### Category name 2 
 ...
-
-
-### There are two types of release notes for:
-- developers (they need to know how contribute)
-- users (they need to know how to use it)
 
 
 
