@@ -67,5 +67,11 @@ Amongst large teams, the person responsible for that release note will depend on
 ...
 
 
+### There are two types of release notes for:
+- developers (they need to know how contribute)
+- users (they need to know how to use it)
+
+
+
 
 
