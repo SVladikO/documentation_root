@@ -54,5 +54,18 @@ Amongst large teams, the person responsible for that release note will depend on
 - Add tags for clarity
 
 
+### Example of release
+###### Name: 
+19.0.2
+###### Description:
+##### Category name 1
+- Fix 1 (@author1 in #ticketNumber)
+- Fix 2 (@author1 in #ticketNumber)
+- Allow 1  (@author2 in #ticketNumber)
+- Disallow 1  (@author2 in #ticketNumber)
+#### Category name 2 
+...
+
+
 
 
